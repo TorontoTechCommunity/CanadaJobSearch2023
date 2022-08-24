@@ -31,6 +31,10 @@ Contribute by making a Pull Request!
 | [Konrad](https://boards.greenhouse.io/konradgroup/jobs/5157070003) | Toronto | Software Developer (12-16 months) (Western) |
 | [RBI](https://careers.rbi.com/global/en/job/6262468002/2023-Technical-Development-Program-Summer-Internship-TDP-Software-Engineering-Toronto) | Toronto | Software Engineering |
 | [Slack](https://salesforce.wd1.myworkdayjobs.com/en-US/Slack/job/Canada---Vancouver/XMLNAME-2023-Summer-Intern---Software-Engineer--Slack-_JR158798?source=LinkedIn_Slack_Jobs) | Toronto, Vancouver | Software Engineering |
+| [Oracle](https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=220009AF&iniurl.src=LinkedIn&tz=GMT-04%3A00&tzname=America%2FToronto) | Canada | Software Developer |
+| [Oracle](https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=22000A6F&iniurl.src=LinkedIn&tz=GMT-04%3A00&tzname=America%2FToronto) | Kitchener | Software Developer |
+| [Oracle](https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=22000BND&iniurl.src=LinkedIn&tz=GMT-04%3A00&tzname=America%2FToronto) | Canada, Remote | Advanced Research and Development Software/System Intern |
+| [Oracle](https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=21000U5M&iniurl.src=LinkedIn&tz=GMT-04%3A00&tzname=America%2FToronto) | Canada, Remote | Software Developer Intern – MySQL HeatWave and Advanced Development | 
 
 ## Fall (September - December) 2023 Internships
 
