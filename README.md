@@ -44,3 +44,13 @@ Contribute by making a Pull Request!
 | ----------- | ----------- | ----------- |
 | [Amazon](https://www.amazon.jobs/en/jobs/2080749/software-development-engineer-2023-canada) | Toronto, Vancouver | Software Development Engineer |
 | [RBI](https://careers.rbi.com/global/en/job/6262338002/2023-Technical-Development-Program-TDP-Software-Engineering-Full-Time) | Toronto | Rotational Software Engineer Program |
+| [TD](https://jobs.td.com/en-CA/jobs/15611105/business-systems-analyst-associate-toronto-ca/) | Toronto | Business Systems Analyst |
+| [TD](https://jobs.td.com/en-CA/jobs/15612576/software-engineer-associate-toronto-ca/) | Toronto | Software Engineering |
+| [TD](https://jobs.td.com/en-CA/jobs/15614749/quality-engineering-associate-toronto-ca/) | Toronto | Quality Engineering |
+| [TD](https://jobs.td.com/en-CA/jobs/16399130/experience-design-intern-co-op-toronto-ca/) | Toronto | Experience Design |
+| [TD](https://jobs.td.com/en-CA/jobs/16530935/data-analytics-business-insights-analytics-associate-undergrad-toronto-ca/) | Toronto | BI & Analytics |
+| [TD](https://jobs.td.com/en-CA/jobs/15614747/mobile-software-engineer-associate-toronto-ca/) | Toronto | Mobile |
+| [TD](https://jobs.td.com/en-CA/jobs/15614748/data-engineer-associate-toronto-ca/) | Toronto | Data Engineering |
+| [TD](https://jobs.td.com/en-CA/jobs/15614750/cyber-security-associate-toronto-ca/) | Toronto | Cybersecurity |
+| [TD](https://jobs.td.com/en-CA/jobs/15614751/cloud-devops-engineer-associate-toronto-ca/) | Toronto | Cloud / DevOps |
+| [TD](https://jobs.td.com/en-CA/jobs/15739562/mainframe-developer-associate-program-toronto-ca/) | Toronto | Mainframe |
