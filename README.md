@@ -17,8 +17,8 @@ Contribute by making a Pull Request!
 
 | Name | Location | Description |
 | ----------- | ----------- | ----------- |
-| [RBI](https://careers.rbi.com/global/en/job/6262468002/2023-Technical-Development-Program-Summer-Internship-TDP-Software-Engineering-Toronto) | Toronto | Software Engineering |
-| [Slack](https://salesforce.wd1.myworkdayjobs.com/en-US/Slack/job/Canada---Vancouver/XMLNAME-2023-Summer-Intern---Software-Engineer--Slack-_JR158798?source=LinkedIn_Slack_Jobs) | Toronto, Vancouver | Software Engineering |
+| [Amazon](amazon.jobs/en/jobs/2161874/amazon-robotics-software-development-engineer-sde-co-op-spring-2023) | Toronto | Amazon Robotics SDE |
+| [Amazon](https://www.amazon.jobs/en/jobs/2114265/software-development-engineer-intern-2023-canada) | Toronto, Vancouver | SDE |
 | [Konrad](https://boards.greenhouse.io/konradgroup/jobs/5252997003) | Toronto | Associate Consultant |
 | [Konrad](https://boards.greenhouse.io/konradgroup/jobs/5268160003) | Vancouver | Software Developer |
 | [Konrad](https://boards.greenhouse.io/konradgroup/jobs/5268040003) | Toronto | Software Developer |
@@ -29,6 +29,8 @@ Contribute by making a Pull Request!
 | [Konrad](https://boards.greenhouse.io/konradgroup/jobs/5156651003) | Toronto | Associate Consultant (12-16 months) (UofT PEY) |
 | [Konrad](https://boards.greenhouse.io/konradgroup/jobs/5096604003) | Toronto | Software Developer (12-16 months) (UofT PEY) |
 | [Konrad](https://boards.greenhouse.io/konradgroup/jobs/5157070003) | Toronto | Software Developer (12-16 months) (Western) |
+| [RBI](https://careers.rbi.com/global/en/job/6262468002/2023-Technical-Development-Program-Summer-Internship-TDP-Software-Engineering-Toronto) | Toronto | Software Engineering |
+| [Slack](https://salesforce.wd1.myworkdayjobs.com/en-US/Slack/job/Canada---Vancouver/XMLNAME-2023-Summer-Intern---Software-Engineer--Slack-_JR158798?source=LinkedIn_Slack_Jobs) | Toronto, Vancouver | Software Engineering |
 
 ## Fall (September - December) 2023 Internships
 
@@ -40,4 +42,5 @@ Contribute by making a Pull Request!
 
 | Name | Location | Description |
 | ----------- | ----------- | ----------- |
+| [Amazon](https://www.amazon.jobs/en/jobs/2080749/software-development-engineer-2023-canada) | Toronto, Vancouver | Software Development Engineer |
 | [RBI](https://careers.rbi.com/global/en/job/6262338002/2023-Technical-Development-Program-TDP-Software-Engineering-Full-Time) | Toronto | Rotational Software Engineer Program |
