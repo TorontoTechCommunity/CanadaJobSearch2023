@@ -35,6 +35,7 @@ Contribute by making a Pull Request!
 | [Oracle](https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=22000A6F&iniurl.src=LinkedIn&tz=GMT-04%3A00&tzname=America%2FToronto) | Kitchener | Software Developer |
 | [Oracle](https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=22000BND&iniurl.src=LinkedIn&tz=GMT-04%3A00&tzname=America%2FToronto) | Canada, Remote | Advanced Research and Development Software/System Intern |
 | [Oracle](https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=21000U5M&iniurl.src=LinkedIn&tz=GMT-04%3A00&tzname=America%2FToronto) | Canada, Remote | Software Developer Intern – MySQL HeatWave and Advanced Development | 
+| [KPMG](https://careers.kpmg.ca/students/jobs/17000?lang=en-us) | Toronto | Software Engineer, Ignition Tax | 
 
 ## Fall (September - December) 2023 Internships
 
