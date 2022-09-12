@@ -14,6 +14,7 @@ Contribute by making a Pull Request!
 | [Konrad](https://boards.greenhouse.io/konradgroup/jobs/5268091003) | Vancouver | Software Developer |
 | [Konrad](https://boards.greenhouse.io/konradgroup/jobs/5267919003) | Toronto | UI/UX Design |
 | [Trexo Robotics](https://www.workatastartup.com/jobs/44576) | Mississauga | Android |
+| [Wealthsimple](https://jobs.lever.co/wealthsimple/15d31ef8-81dc-419c-b6b4-230d48e18f1c) | Toronto | Software Engineer |
 
 ## Summer (May - August) 2023 Internships
 
