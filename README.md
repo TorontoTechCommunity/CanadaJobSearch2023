@@ -14,6 +14,7 @@ Contribute by making a Pull Request!
 | [Konrad](https://boards.greenhouse.io/konradgroup/jobs/5268091003) | Vancouver | Software Developer |
 | [Konrad](https://boards.greenhouse.io/konradgroup/jobs/5267919003) | Toronto | UI/UX Design |
 | [Trexo Robotics](https://www.workatastartup.com/jobs/44576) | Mississauga | Android |
+| [Wealthsimple](https://jobs.lever.co/wealthsimple/15d31ef8-81dc-419c-b6b4-230d48e18f1c) | Toronto, Remote | Software Engineer |
 
 ## Summer (May - August) 2023 Internships
 
@@ -38,7 +39,7 @@ Contribute by making a Pull Request!
 | [Oracle](https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=22000BND&iniurl.src=LinkedIn&tz=GMT-04%3A00&tzname=America%2FToronto) | Canada, Remote | Advanced Research and Development Software/System Intern |
 | [Oracle](https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=21000U5M&iniurl.src=LinkedIn&tz=GMT-04%3A00&tzname=America%2FToronto) | Canada, Remote | Software Developer Intern – MySQL HeatWave and Advanced
 | [RBI](https://careers.rbi.com/global/en/job/6262468002/2023-Technical-Development-Program-Summer-Internship-TDP-Software-Engineering-Toronto) | Toronto | Software Engineering |
-| [Senty](https://angel.co/company/sentry/jobs/2339837-software-engineer-intern-summer-2023) | Toronto | Software Engineering |
+| [Sentry](https://angel.co/company/sentry/jobs/2339837-software-engineer-intern-summer-2023) | Toronto | Software Engineering |
 | [Slack](https://salesforce.wd1.myworkdayjobs.com/en-US/Slack/job/Canada---Vancouver/XMLNAME-2023-Summer-Intern---Software-Engineer--Slack-_JR158798?source=LinkedIn_Slack_Jobs) | Toronto, Vancouver | Software Engineering |
 | [Trexo Robotics](https://www.workatastartup.com/jobs/44576) | Mississauga | Android |
 | [X BY 2](https://angel.co/company/x-by-2-1/jobs/2169750-software-engineer-internship) | Toronto, Farmington Hills | Software Engineer |
