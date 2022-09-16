@@ -55,6 +55,7 @@ Contribute by making a Pull Request!
 | Name | Location | Description |
 | ----------- | ----------- | ----------- |
 | [Amazon](https://www.amazon.jobs/en/jobs/2080749/software-development-engineer-2023-canada) | Toronto, Vancouver | Software Development Engineer |
+| [IXL Learning](https://www.ixl.com/company/careers?gh_jid=5842866002&gh_src=9093fb5d2us) | Toronto | Software Developer |
 | [Microsoft](https://careers.microsoft.com/students/us/en/job/1368447/Software-Engineering-Fulltime-Opportunities-for-University-Graduates-Canada) | Vancouver | Software Engineer |
 | [RBI](https://careers.rbi.com/global/en/job/6262338002/2023-Technical-Development-Program-TDP-Software-Engineering-Full-Time) | Toronto | Rotational Software Engineer Program |
 | [TD](https://jobs.td.com/en-CA/jobs/15611105/business-systems-analyst-associate-toronto-ca/) | Toronto | Business Systems Analyst |
