@@ -54,7 +54,6 @@ Contribute by making a Pull Request!
 | Name | Location | Description |
 | ----------- | ----------- | ----------- |
 | [Amazon](https://www.amazon.jobs/en/jobs/2080749/software-development-engineer-2023-canada) | Toronto, Vancouver | Software Development Engineer |
-| [Adobe](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/XMLNAME-2023-University-Graduate---Associate-Experience-Designer_R130677-1?locationCountry=a30a87ed25634629aa6c3958aa2b91ea) | Toronto | Associate Experience Designer |
 | [Microsoft](https://careers.microsoft.com/students/us/en/job/1368447/Software-Engineering-Fulltime-Opportunities-for-University-Graduates-Canada) | Vancouver | Software Engineer |
 | [RBI](https://careers.rbi.com/global/en/job/6262338002/2023-Technical-Development-Program-TDP-Software-Engineering-Full-Time) | Toronto | Rotational Software Engineer Program |
 | [TD](https://jobs.td.com/en-CA/jobs/15611105/business-systems-analyst-associate-toronto-ca/) | Toronto | Business Systems Analyst |
