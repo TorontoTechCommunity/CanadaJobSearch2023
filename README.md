@@ -57,6 +57,8 @@ Contribute by making a Pull Request!
 | [Amazon](https://www.amazon.jobs/en/jobs/2080749/software-development-engineer-2023-canada) | Toronto, Vancouver | Software Development Engineer |
 | [IXL Learning](https://www.ixl.com/company/careers?gh_jid=6304303002&gh_src=b1f1e23c2us) | Toronto | Software Developer |
 | [Microsoft](https://careers.microsoft.com/students/us/en/job/1368447/Software-Engineering-Fulltime-Opportunities-for-University-Graduates-Canada) | Vancouver | Software Engineer |
+| [Publicis Sapient](https://jobs.smartrecruiters.com/ni/PublicisGroupe/861c1dd9-65c4-479b-ac70-38911b92a26a-junior-associate-data-analytics-class-of-2023) | Toronto | Junior Associate Data Analytics |
+| [Publicis Sapient](https://jobs.smartrecruiters.com/ni/PublicisGroupe/7d97e9bf-ea57-45e8-baac-786f7cc7fa4c-junior-software-engineer-class-of-2023) | Toronto | Junior Software Engineer |
 | [RBI](https://careers.rbi.com/global/en/job/6262338002/2023-Technical-Development-Program-TDP-Software-Engineering-Full-Time) | Toronto | Rotational Software Engineer Program |
 | [TD](https://jobs.td.com/en-CA/jobs/15611105/business-systems-analyst-associate-toronto-ca/) | Toronto | Business Systems Analyst |
 | [TD](https://jobs.td.com/en-CA/jobs/15612576/software-engineer-associate-toronto-ca/) | Toronto | Software Engineering |
