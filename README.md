@@ -55,6 +55,8 @@ Contribute by making a Pull Request!
 
 | Name | Location | Description |
 | ----------- | ----------- | ----------- |
+| [Alphawave IP](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b3b0e69b-a92a-41db-aee0-b716b8d4ffd7&ccId=19000101_000001&jobId=440658&lang=en_CA&source=EN) | Ottawa | Junior ASIC/FPGA Engineer
+ |
 | [Amazon](https://www.amazon.jobs/en/jobs/2080749/software-development-engineer-2023-canada) | Toronto, Vancouver | Software Development Engineer |
 | [Boeing](https://www.linkedin.com/jobs/view/3271349771/?refId=WLaISKWu3UHndy39Hkj4Pw%3D%3D) | Vancouver | User Experience Designer |
 | [Connor, Clark & Lunn Financial Group](https://cclfg.cclgroup.com/careers/opportunities/posting/?gnk=job&gni=8a7885ac82ae54730182f543dadd2813) | Vancouver | Technology Infrastructure Software Engineer |
