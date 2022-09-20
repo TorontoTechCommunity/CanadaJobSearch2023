@@ -57,6 +57,7 @@ Contribute by making a Pull Request!
 | ----------- | ----------- | ----------- |
 | [Amazon](https://www.amazon.jobs/en/jobs/2080749/software-development-engineer-2023-canada) | Toronto, Vancouver | Software Development Engineer |
 | [Boeing](https://www.linkedin.com/jobs/view/3271349771/?refId=WLaISKWu3UHndy39Hkj4Pw%3D%3D) | Vancouver | User Experience Designer |
+| [Connor, Clark & Lunn Financial Group](https://cclfg.cclgroup.com/careers/opportunities/posting/?gnk=job&gni=8a7885ac82ae54730182f543dadd2813) | Vancouver | Technology Infrastructure Software Engineer |
 | [DoorDash](https://boards.greenhouse.io/doordash/jobs/4562651?gh_jid=4562651) | Toronto | Software Engineer |
 | [IXL Learning](https://www.ixl.com/company/careers?gh_jid=6304303002&gh_src=b1f1e23c2us) | Toronto | Software Developer |
 | [Microsoft](https://careers.microsoft.com/students/us/en/job/1368447/Software-Engineering-Fulltime-Opportunities-for-University-Graduates-Canada) | Vancouver | Software Engineer |
