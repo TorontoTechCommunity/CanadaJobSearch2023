@@ -8,6 +8,7 @@ Contribute by making a Pull Request!
 
 | Name | Location | Description |
 | ----------- | ----------- | ----------- |
+| [Bombardier](https://placementspot.ca/stages/stage-en-conception-uxui-de-produits-numeriques-1) | Dorval | UI/UX Design (French) |
 | [Cohere](https://angel.co/company/cohere-ai/jobs/2349884-machine-learning-intern-january-2023) | Toronto, London, San Francisco, Palo Alto | Machine Learning |
 | [Konrad](https://boards.greenhouse.io/konradgroup/jobs/5253154003) | Toronto | Associate Consultant |
 | [Konrad](https://boards.greenhouse.io/konradgroup/jobs/5267988003) | Toronto | Software Developer |
