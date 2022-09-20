@@ -55,6 +55,7 @@ Contribute by making a Pull Request!
 | Name | Location | Description |
 | ----------- | ----------- | ----------- |
 | [Amazon](https://www.amazon.jobs/en/jobs/2080749/software-development-engineer-2023-canada) | Toronto, Vancouver | Software Development Engineer |
+| [Boeing](https://www.linkedin.com/jobs/view/3271349771/?refId=WLaISKWu3UHndy39Hkj4Pw%3D%3D) | Vancouver | User Experience Designer |
 | [IXL Learning](https://www.ixl.com/company/careers?gh_jid=6304303002&gh_src=b1f1e23c2us) | Toronto | Software Developer |
 | [Microsoft](https://careers.microsoft.com/students/us/en/job/1368447/Software-Engineering-Fulltime-Opportunities-for-University-Graduates-Canada) | Vancouver | Software Engineer |
 | [Publicis Sapient](https://jobs.smartrecruiters.com/ni/PublicisGroupe/861c1dd9-65c4-479b-ac70-38911b92a26a-junior-associate-data-analytics-class-of-2023) | Toronto | Junior Associate Data Analytics |
