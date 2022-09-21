@@ -62,6 +62,7 @@ Contribute by making a Pull Request!
 | [DoorDash](https://boards.greenhouse.io/doordash/jobs/4562651?gh_jid=4562651) | Toronto | Software Engineer |
 | [IXL Learning](https://www.ixl.com/company/careers?gh_jid=6304303002&gh_src=b1f1e23c2us) | Toronto | Software Developer |
 | [Microsoft](https://careers.microsoft.com/students/us/en/job/1368447/Software-Engineering-Fulltime-Opportunities-for-University-Graduates-Canada) | Vancouver | Software Engineer |
+| [LifeWorks](https://lifeworks81.applytojob.com/apply/C4vGzBcUPr/Full-Stack-Developer) | Remote | Full Stack Developer |
 | [Publicis Sapient](https://jobs.smartrecruiters.com/ni/PublicisGroupe/861c1dd9-65c4-479b-ac70-38911b92a26a-junior-associate-data-analytics-class-of-2023) | Toronto | Junior Associate Data Analytics |
 | [Publicis Sapient](https://jobs.smartrecruiters.com/ni/PublicisGroupe/7d97e9bf-ea57-45e8-baac-786f7cc7fa4c-junior-software-engineer-class-of-2023) | Toronto | Junior Software Engineer |
 | [RBI](https://careers.rbi.com/global/en/job/6262338002/2023-Technical-Development-Program-TDP-Software-Engineering-Full-Time) | Toronto | Rotational Software Engineer Program |
